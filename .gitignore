@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Config files (не нужны для Railway)
+configs/config.json
+
+# Temp files
+temp/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Data files (не нужны для Railway)
+data/
